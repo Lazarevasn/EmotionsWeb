@@ -1,7 +1,6 @@
 import tempfile
 
 from PIL import Image
-import fer.exceptions
 from fer import FER
 from io import BytesIO
 import matplotlib.pyplot as plt
@@ -111,10 +110,6 @@ if st.session_state['img'] is not None:
                 print_emotions(recognize_emotions(img, detector)[0], recognize_emotions(img, detector)[1], recognize_emotions(img, detector)[2])
                 st.session_state['photo'] = None
                 st.session_state['img'] = None
-            except fer.exceptions.InvalidImage:
-                st.session_state['photo'] = None
-                st.session_state['img'] = None
-                st.error("Изображение не было загружено")
             except RuntimeError:
                 st.session_state['photo'] = None
                 st.session_state['img'] = None
