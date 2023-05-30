@@ -1,0 +1,179 @@
+body {
+    background: ##6699ff !important;
+    /*background: linear-gradient(90deg, rgba(87,42,156,1) 0%, rgba(136,106,193,1) 40%, rgba(209,210,233,1) 100%);*/
+}
+
+
+.css-10trblm.e16nr0p30 {
+    width: 80%;
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 3%;
+}
+.css-8u98yl.exg6vvm0 {
+    /*display: flex;
+    align-content: center;
+    align-items: center;*/
+}
+
+.css-k3w14i {
+    justify-content: center;
+}
+.css-q8sbsg.e16nr0p34 {
+    margin-top: 2%;
+    text-align: center;
+    margin-bottom: 2vw;
+}
+.css-q8sbsg.e16nr0p34 p {
+    width: 100%;
+    font-size: 1.7rem;
+}
+
+.css-54flls {
+    width: 50%;
+    height: 90%;
+}
+
+.css-54flls.edgvbvh10 {
+    width: 100%;
+}
+.stButton {
+    display: flex;
+    justify-content: center;
+    height: 7vw;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.css-x78sv8 p {
+    font-size: 1.5rem;
+    margin-bottom: 4%;
+}
+
+.css-x78sv8 span {
+    font-size: 1.7rem;
+    font-weight: 600;
+    margin-bottom: 4%;
+}
+
+.css-nahz7x.e16nr0p34 p {
+    font-weight: 600;
+    font-size: 1.6rem;
+}
+
+.css-nahz7x {
+    display: flex;
+    justify-content: center;
+}
+
+.css-nahz7x p {
+    font-size: 1.2rem;
+}
+
+.css-nahz7x ~ div {
+    display: flex;
+    justify-content: center;
+    font-size: 1.2rem;
+}
+
+.st-b3 {
+    align-content: center;
+}
+
+.st-b3~label {
+    align-items: center;
+}
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.css-1y4p8pa.egzxvld4
+> div:nth-child(1) > div > div:nth-child(4) > div > div > label:nth-child(1) > div.st-c0.st-ce.st-cf.st-ae.st-af.st-ag.st-ah.st-ai.st-aj.st-cg.st-ch,
+ #root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.css-1y4p8pa.egzxvld4 > div:nth-child(1) > div
+> div:nth-child(4) > div > div > label:nth-child(2) > div.st-c0.st-ce.st-cf.st-ae.st-af.st-ag.st-ah.st-ai.st-aj.st-cg.st-ch, #root > div:nth-child(1) > div.withScreencast > div > div > div > section
+> div.block-container.css-1y4p8pa.egzxvld4 > div:nth-child(1) > div > div:nth-child(4) > div > div > label:nth-child(3) > div.st-c0.st-ce.st-cf.st-ae.st-af.st-ag.st-ah.st-ai.st-aj.st-cg.st-ch
+{
+    font-size: 3vh;
+}
+
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.css-1y4p8pa.egzxvld4 > div:nth-child(1) > div > div:nth-child(4) > div > div >
+label:nth-child(1) > div.st-bo.st-bp.st-bq.st-br.st-bs.st-bt.st-ay.st-b3.st-bu.st-bv.st-bw.st-b5.st-bx.st-by.st-bz.st-c0.st-c1.st-c2.st-b1.st-c3,
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.css-1y4p8pa.egzxvld4 > div:nth-child(1) > div > div:nth-child(4) > div > div >
+label:nth-child(1) > div.st-bo.st-ci.st-bq.st-br.st-bs.st-bt.st-ay.st-b3.st-bu.st-bv.st-bw.st-b5.st-bx.st-by.st-bz.st-c0.st-c1.st-c2.st-b1.st-c3,
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.css-1y4p8pa.egzxvld4 > div:nth-child(1) > div > div:nth-child(4) > div > div >
+label:nth-child(2) > div.st-bo.st-ci.st-bq.st-br.st-bs.st-bt.st-ay.st-b3.st-bu.st-bv.st-bw.st-b5.st-bx.st-by.st-bz.st-c0.st-c1.st-c2.st-b1.st-c3,
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.css-1y4p8pa.egzxvld4 > div:nth-child(1) > div > div:nth-child(4) > div > div >
+label:nth-child(2) > div.st-bo.st-bp.st-bq.st-br.st-bs.st-bt.st-ay.st-b3.st-bu.st-bv.st-bw.st-b5.st-bx.st-by.st-bz.st-c0.st-c1.st-c2.st-b1.st-c3,
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.css-1y4p8pa.egzxvld4 > div:nth-child(1) > div > div:nth-child(4) > div > div >
+label:nth-child(3) > div.st-bo.st-bp.st-bq.st-br.st-bs.st-bt.st-ay.st-b3.st-bu.st-bv.st-bw.st-b5.st-bx.st-by.st-bz.st-c0.st-c1.st-c2.st-b1.st-c3,
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.css-1y4p8pa.egzxvld4 > div:nth-child(1) > div > div:nth-child(4) > div > div >
+label:nth-child(3) > div.st-bo.st-ci.st-bq.st-br.st-bs.st-bt.st-ay.st-b3.st-bu.st-bv.st-bw.st-b5.st-bx.st-by.st-bz.st-c0.st-c1.st-c2.st-b1.st-c3
+{
+    width: 4vh;
+    height: 4vh;
+    align-items: center;
+}
+
+.css-1p05t8e.epcbefy1 {
+    margin-top: 1.8vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.css-pjg633.exg6vvm15 {
+    width: 80%;
+    margin-top: 1vw;
+    margin-left: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.css-1y4p8pa.egzxvld4 >
+div:nth-child(1) > div > div.css-1p05t8e.epcbefy1 > div:nth-child(1) > div > div:nth-child(1) > div > section > button {
+    width: 23vw;
+    height: 10vh;
+    flex-wrap: wrap;
+    font-size: 2.4vh;
+}
+
+.css-u8hs99.exg6vvm14 {
+    justify-content: center;
+}
+
+.css-1fttcpj.exg6vvm11 {
+    width: 45%;
+}
+
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.css-1y4p8pa.egzxvld4 >
+div:nth-child(1) > div > div.css-1p05t8e.epcbefy1 > div:nth-child(1) > div > div:nth-child(2) > div > div > button {
+    height: 10vw;
+    max-height: 10vh;
+}
+
+.element-container.css-14w835h.e1tzin5v2 {
+    display: flex;
+    align-items: center;
+}
+
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.css-1y4p8pa.egzxvld4
+> div:nth-child(1) > div > div.css-1p05t8e.epcbefy1 > div:nth-child(1) > div > div:nth-child(1) > div > div > button {
+    height: 8vh;
+    font-size: 3vh;
+}
+
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.css-1y4p8pa.egzxvld4 > div:nth-child(1) > div > div:nth-child(5) > div
+> div.st-cn.st-b3.st-co.st-b8.st-cp.st-cq.st-cr.st-cs.st-ct.st-cu.st-cv.st-cw.st-cx.st-b1.st-c3.st-au.st-ax.st-av.st-aw.st-ae.st-af.st-ag.st-ah.st-ai.st-aj.st-cy.st-cz.st-d0.st-d1.st-cm.st-d2.st-d3,
+ #root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.css-1y4p8pa.egzxvld4 > div:nth-child(1) > div > div:nth-child(5) > div > div.st-cn.st-b3.st-co.st-b8.st-cp.st-cq.st-cr.st-cs.st-ct.st-cu.st-cv.st-cw.st-cx.st-b1.st-c3.st-au.st-ax.st-av.st-aw.st-ae.st-af.st-ag.st-ah.st-ai.st-aj.st-dq.st-dr.st-ds.st-dt.st-cm.st-d2.st-d3 {
+    height: 6vh;
+}
+
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.css-1y4p8pa.egzxvld4
+> div:nth-child(1) > div > div:nth-child(7) > div > button {
+    width: 50vw;
+    min-height: 10vh;
+}
+
+.uploadedFileData.css-1l4firl.exg6vvm7 {
+    font-size: 2.6vh;
+}
